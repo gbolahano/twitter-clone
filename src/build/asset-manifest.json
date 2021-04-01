@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.245af6ed.chunk.css",
+    "main.js": "/static/js/main.c7721531.chunk.js",
+    "main.js.map": "/static/js/main.c7721531.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd8aa006.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd8aa006.js.map",
+    "static/js/2.b1469751.chunk.js": "/static/js/2.b1469751.chunk.js",
+    "static/js/2.b1469751.chunk.js.map": "/static/js/2.b1469751.chunk.js.map",
+    "static/js/3.67549429.chunk.js": "/static/js/3.67549429.chunk.js",
+    "static/js/3.67549429.chunk.js.map": "/static/js/3.67549429.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.245af6ed.chunk.css.map": "/static/css/main.245af6ed.chunk.css.map",
+    "static/js/2.b1469751.chunk.js.LICENSE.txt": "/static/js/2.b1469751.chunk.js.LICENSE.txt",
+    "static/media/comment.6f889796.svg": "/static/media/comment.6f889796.svg",
+    "static/media/export.a3780ab2.svg": "/static/media/export.a3780ab2.svg",
+    "static/media/hash.f6efdcc6.svg": "/static/media/hash.f6efdcc6.svg",
+    "static/media/heart.810c2b26.svg": "/static/media/heart.810c2b26.svg",
+    "static/media/home.b0189fdb.svg": "/static/media/home.b0189fdb.svg",
+    "static/media/list-text.a823ba2e.svg": "/static/media/list-text.a823ba2e.svg",
+    "static/media/lnr-cog.83c71d39.svg": "/static/media/lnr-cog.83c71d39.svg",
+    "static/media/lnr-magnifier.0bf1b7b9.svg": "/static/media/lnr-magnifier.0bf1b7b9.svg",
+    "static/media/notification.0c5368bb.svg": "/static/media/notification.0c5368bb.svg",
+    "static/media/recycle.ede1a9b7.svg": "/static/media/recycle.ede1a9b7.svg",
+    "static/media/retweet.358980ac.svg": "/static/media/retweet.358980ac.svg",
+    "static/media/small-bookmark.7748c496.svg": "/static/media/small-bookmark.7748c496.svg",
+    "static/media/twitter.88d497cc.svg": "/static/media/twitter.88d497cc.svg",
+    "static/media/user.10a93f10.svg": "/static/media/user.10a93f10.svg",
+    "static/media/user.9c42e192.jpg": "/static/media/user.9c42e192.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd8aa006.js",
+    "static/js/2.b1469751.chunk.js",
+    "static/css/main.245af6ed.chunk.css",
+    "static/js/main.c7721531.chunk.js"
+  ]
+}
