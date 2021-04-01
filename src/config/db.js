@@ -9,6 +9,12 @@ module.exports = {
     dialect: "postgres",
     quoteIdentifiers: false,
     logging: false,
+    ssl: true,
+    extra: {
+      ssl: {
+        rejectUnauthorized: false,
+      },
+    },
   },
   test: {
     username: process.env.DB_USERNAME,
@@ -19,6 +25,12 @@ module.exports = {
     dialect: "postgres",
     quoteIdentifiers: false,
     logging: false,
+    ssl: true,
+    extra: {
+      ssl: {
+        rejectUnauthorized: false,
+      },
+    },
   },
   production: {
     username: process.env.DB_USERNAME,
